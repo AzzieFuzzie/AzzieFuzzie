@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AzzieFuzzie
-- 👀 I’m interested in web deveoplment 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning Back end development
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: azziefuzzie01@gmail.com
