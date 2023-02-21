@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muaaz
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning Back end development
+- 👀 I’m interested in creative web development 
+- 🌱 I’m currently learning animations
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: mmatwadia01@gmail.com
 
