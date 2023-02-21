@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AzzieFuzzie
+- 👋 Hi, I’m Muaaz
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Back end development
 - 💞️ I’m looking to collaborate on web projects
